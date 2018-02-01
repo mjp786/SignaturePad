@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Signature Pad</string>
+
+    <string-array name="color_array1">
+        <item>WHITE</item>
+        <item>BLACK</item>
+        <item>VIOLET</item>
+        <item>INDIGO</item>
+        <item>BLUE</item>
+        <item>GREEN</item>
+        <item>YELLOW</item>
+        <item>ORANGE</item>
+        <item>RED</item>
+    </string-array>
+
+
+    <string-array name="color_array2">
+        <item>BLACK</item>
+        <item>WHITE</item>
+        <item>VIOLET</item>
+        <item>INDIGO</item>
+        <item>BLUE</item>
+        <item>GREEN</item>
+        <item>YELLOW</item>
+        <item>ORANGE</item>
+        <item>RED</item>
+    </string-array>
+
+</resources>
